@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+💫About Laud Gilbert :
+Hi there 👋 , Laud Gilbert here. A true product of God's Grace
+
+I'm a Software Engineer. I am for Christ !!!
+💻Tech Stack
+JavaScript HTML5 CSS3 Netlify Vercel Heroku Firebase AWS TypeScript GraphQL Dart jQuery React Native React Flutter Electron.js Express.js Bootstrap TailwindCSS NodeJS Next JS Redux Postgres MySQL SQLite MongoDB Figma Canva ESLint Swagger Postman Docker
+
+📊 GitHub Stats
+🌐 Socials
+
 <!--
 **JoshuaRocksGh/JoshuaRocksGh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
